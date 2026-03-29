@@ -42,7 +42,7 @@ Beyond tech, **music fuels my creativity and balance**. I enjoy **public speakin
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranvirw18&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,7 +50,7 @@ Beyond tech, **music fuels my creativity and balance**. I enjoy **public speakin
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranvirw18&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
