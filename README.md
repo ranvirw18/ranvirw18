@@ -5,7 +5,7 @@
 <h3 align="center">Student | Data Science Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Always+Learning;Data+Driven+Thinking;Future+Engineer;Exploring+AI+%26+Cybersecurity">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Learning+by+building;Exploring+data+and+systems;Improving+step+by+step">
 </p>
 
 <p align="center">
