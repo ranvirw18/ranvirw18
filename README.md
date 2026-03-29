@@ -13,8 +13,8 @@
 
 ### 📊 Ranvir's GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ranvirw18&show_icons=true&theme=tokyonight&hide_border=false&title_color=eb4d4b&text_color=ffffff&bg_color=1a1a2e" alt="Ranvir's Stats" />
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ranvirw18&show_icons=true&theme=tokyonight&hide_border=false&title_color=eb4d4b&text_color=ffffff&bg_color=1a1a2e" alt="Ranvir's Stats" />
+</p>>
 
 ---
 
