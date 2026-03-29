@@ -11,9 +11,13 @@
 
 ---
 
-### 📊 Ranvir's GitHub Stats
+### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ranvirw18&show_icons=true&theme=tokyonight&hide_border=false&title_color=eb4d4b&text_color=ffffff&bg_color=1a1a2e&hide_rank=true" alt="Ranvir's Stats" />
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranvirw18&theme=tokyonight&hide_border=false&stroke=eb4d4b&ring=eb4d4b&fire=eb4d4b&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Ranvir's Streak" />
+</p>
+<p align="left">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ranvirw18&layout=compact&theme=tokyonight&hide_border=false&title_color=eb4d4b&text_color=ffffff&bg_color=1a1a2e" alt="Ranvir's Top Langs" />
 </p>
 ---
 
