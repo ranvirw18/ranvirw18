@@ -20,10 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranvirw18&color=8A2BE2&style=for-the-badge">
-</p>
-
 ---
 
 ## 🧠 About Me
